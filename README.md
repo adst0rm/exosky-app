@@ -2,7 +2,7 @@
 
 
 
-![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Krishak15/Planets/master?style=for-the-badge) 
+![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge]
 &nbsp;
 ## "Explore exoplanets with Planets app with beautiful UI & Animation"
 &nbsp;
