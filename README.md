@@ -2,11 +2,10 @@
 
 
 
-![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp;  &nbsp; ![my badge]
 &nbsp;
 ## "Explore exoplanets with Planets app with beautiful UI & Animation"
 &nbsp;
-[<img src="https://user-images.githubusercontent.com/34805219/220257013-a3a282e8-b2cd-4916-ae7c-2951ee6bc2df.png" width="50%">]
+
 
 
 
